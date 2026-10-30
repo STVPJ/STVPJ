@@ -31,3 +31,4 @@ I'm a product manager on a legal-AI product. I build my own tools with Claude Co
 ### Find me
 
 [![Blog](https://img.shields.io/badge/Blog-stvpj.com-111?style=flat-square)](https://stvpj.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Steve%20James-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/stvpjames/)
